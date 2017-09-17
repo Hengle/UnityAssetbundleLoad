@@ -1,2 +1,3 @@
 # UnityAssetbundleLoad
-读取Unity的Assetbundle内的数据病保存至本地
+读取Unity的Assetbundle内的数据并保存至本地
+基于Unity5.6.2p3编写
