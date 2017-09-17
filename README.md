@@ -1,1 +1,2 @@
 # UnityAssetbundleLoad
+读取Unity的Assetbundle内的数据病保存至本地
